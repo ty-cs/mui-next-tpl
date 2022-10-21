@@ -41,3 +41,7 @@ test-timings.json
 # Others
 .eslintcache
 .env
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
